@@ -36,5 +36,5 @@ Raise an issue on the [Github page](https://github.com/oicr-gsi/djerba-demo/issu
 
 ### Who is the copyright holder for Djerba?
 
-Djerba is copyright &copy; Genome Systems Informatics, Ontario Institute for Cancer Research; all rights reserved.
+Djerba is copyright &copy; Genome Sequence Informatics, Ontario Institute for Cancer Research; all rights reserved.
 
