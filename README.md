@@ -16,7 +16,7 @@ For detailed instructions on how to install, test and run `djerba-demo`, see [HO
 
 We also have a [Frequently Asked Questions](./FAQ.md) file.
 
-## Code structure
+## Code Structure
 
 Djerba has a modular structure based on _plugins_. The `djerba-demo` repo has a reduced set of plugins, and accordingly fewer dependencies. The core Djerba code, which loads and runs plugins, is the same as the version deployed in production at OICR, in order for `djerba-demo` to provide an accurate demonstration of how Djerba and its plugins work.
 
