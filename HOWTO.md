@@ -16,6 +16,7 @@ This document contains detailed instructions for how to install, test, and run [
 ### Hardware
 
 - `djerba-demo` is a lightweight demonstration; 4 GB of RAM and a 1 GHz processor should be more than sufficient.
+- Installation requires about 400MB of disk space.
 
 ### Operating system
 
