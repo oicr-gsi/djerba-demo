@@ -2,7 +2,7 @@
 
 ### Can I fork and modify the Djerba software?
 
-Yes --- Djerba is licensed under [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) and may be copied, distributed and modified accordingly.
+Yes. Djerba is licensed under [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) and may be copied, distributed and modified accordingly.
 
 ### Can I write my own Djerba plugins?
 
@@ -23,6 +23,10 @@ Djerba supports importing plugin code from namespaces other than the main `djerb
 ### This file/script/module looks interesting, what does it do?
 
 The `djerba-demo` repository is a fork of production Djerba. In addition to the demonstration plugins, some production code has been left in place for testing purposes or simply to save time. If you have specific questions about the code, we recommend looking at the [main Djerba repo](https://github.com/oicr-gsi/djerba) in the first instance, to see how it works in production.
+
+### What are future plans for this demo repository?
+
+The demo was developed in a fork of the original repo for convenience; we plan to port it to the [main Djerba repo](https://github.com/oicr-gsi/djerba), as part of a more general reorganization of plugin code.
 
 ### Djerba isn't working for me; what should I do?
 
